@@ -1,0 +1,17 @@
+{
+  "name": "fn-jsx",
+  "version": "0.1.0",
+  "description": "An utility library for working with fn-jsx",
+  "main": "dist/index.js",
+  "types": "types",
+  "scripts": {
+    "build": "node_modules/.bin/babel src -d dist"
+  },
+  "author": "4erem6a",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
