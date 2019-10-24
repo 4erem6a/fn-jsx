@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "An utility library for working with fn-jsx",
   "main": "dist/index.js",
-  "types": "types",
   "scripts": {
     "build": "node_modules/.bin/babel src -d dist"
   },
