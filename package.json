@@ -9,6 +9,9 @@
   },
   "author": "4erem6a",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/4erem6a/fn-jsx"
+  },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
